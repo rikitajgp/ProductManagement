@@ -8,6 +8,7 @@ namespace ProductManagement.Controllers
 {
     public class HomeController : Controller
     {
+        //Adding comment in HomeController
         public ActionResult Index()
         {
             return View();
