@@ -19,7 +19,7 @@ namespace ProductManagement.Controllers
         public ManageController()
         {
         }
-
+        //change in file 2
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
         {
             UserManager = userManager;
